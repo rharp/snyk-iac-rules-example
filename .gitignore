@@ -1,0 +1,5 @@
+.idea
+secret.auto.tfvars
+.dcignore
+tfplan.binary
+.terraform*

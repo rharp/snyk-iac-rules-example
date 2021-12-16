@@ -1,0 +1,1 @@
+# snyk-iac-rules-example
